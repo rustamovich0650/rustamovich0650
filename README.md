@@ -19,4 +19,4 @@ I am a frontend developer and web designer <br/>
 
 -🗺️ &nbsp; Current location: Sirdarya, Uzbekistan<br/>
 -📝 &nbsp; Ask me about anything, I'm happy to help<br/>
--📱 &nbsp; How to reach me: [@_rustamovich_06__](https://www.instagram.com/_rustamovich_06__/?ysclid=l9vbtfcd2723872633)
+-📱 &nbsp; How to reach me: [@rustamovich__06]https://www.instagram.com/rustamovich__06/
